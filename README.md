@@ -30,17 +30,6 @@ nelson-bandos/
 └── .gitignore      # Fichiers à exclure du versionnement
 ```
 
-## 💻 Installation & Utilisation Locale
-
-Le projet est conçu pour être extrêmement léger et ne nécessite aucune étape de compilation.
-
-1.  **Cloner le dépôt** :
-    ```bash
-    git clone https://github.com/Nelson2410/nelson-bandos.git
-    ```
-2.  **Ouvrir le projet** :
-    Il suffit d'ouvrir le fichier `index.html` dans votre navigateur Web préféré (Chrome, Firefox, Edge, etc.).
-
 ## 🎓 À Propos de Moi
 
 Actuellement en fin de cycle **Licence/Master (Bac +5) en Réseaux et Télécoms**, je prépare également plusieurs certifications industrielles telles que **CCNA 200-301**, **CompTIA Security+** et **Fortinet NSE 2**. En parallèle de mes études, je partage mes connaissances en tant qu'enseignant au Groupe ETIC Abidjan.
@@ -55,4 +44,4 @@ Je suis actuellement à la recherche d'opportunités en **Stage, CDD ou CDI**.
 - **Téléphone** : +225 07 11 45 92 01
 
 ---
-*Réalisé avec ❤️ par Nelson Bandos - 2026*
+*Nelson Bandos - 2026*
